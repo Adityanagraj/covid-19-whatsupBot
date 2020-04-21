@@ -12,6 +12,6 @@ To motivate me please drop a ⭐<br>
 </ul>
 
 <B> 📹 watch it live<br>
-  https://www.youtube.com/watch?v=NL-PxclX1cs&t=35s <br>
-<B>Clone the repo<br>
+  https://www.youtube.com/watch?v=NL-PxclX1cs&t=35s <br><br>
+<B>©️ Clone the repo<br>
   
