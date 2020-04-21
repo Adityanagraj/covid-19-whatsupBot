@@ -13,6 +13,6 @@ To motivate me please drop a ⭐<br>
 
 <B> 📹 watch it live<br>
   https://www.youtube.com/watch?v=NL-PxclX1cs&t=35s <br><br>
-<B>©️ Clone the repo<br>
+ <B>©️ Clone the repo<br>
   https://github.com/Adityanagraj/covid-19-whatsupBot.git <br><br>
 hit me up with pull request ☺️
