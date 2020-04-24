@@ -19,4 +19,5 @@ else:<br>
   https://www.youtube.com/watch?v=NL-PxclX1cs&t=35s <br><br>
  <B>©️ Clone the repo<br>
   https://github.com/Adityanagraj/covid-19-whatsupBot.git <br><br>
-
+<B>Ⓜ️ Medium post <br>
+   https://medium.com/@aditya.nagraj1999/how-to-create-basic-whatsapp-bot-db4486e6ca8b
