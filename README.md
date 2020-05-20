@@ -23,4 +23,4 @@ else:<br>
    https://medium.com/@aditya.nagraj1999/how-to-create-basic-whatsapp-bot-db4486e6ca8b
      
  
- ![](pic2)
+ ![](pic2.jpg)
