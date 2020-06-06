@@ -1,5 +1,8 @@
-# covid-19-whatsupBot
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)<br>
+# <h1 allign='center'>Covid-19-whatsupBot</h1>
+![Python](https://img.shields.io/badge/python-v3.4+-blue.svg)
+[![open for contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adityanagraj/covid-19-whatsupBot/issues)
+[![MIT License](https://img.shields.io/github/license/Adityanagraj/covid-19-whatsupBot.svg?style=flat-square)](https://github.com/Adityanagraj/covid-19-whatsupBot/blob/master/Licence.md)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=525)](https://www.linkedin.com/in/aditya-n-02a0a8192/)<br>
 Nowadays,Covid19 cases details are spreading more from unauthentic sources to users,<br>Inorder to avoid such issue,to create awareness about covid virus,to help users to ensure safety to avoid being prone to covid attack<br>we built a whatsapp bot which updates about covid cases in india to users via whatsapp message.<br>User can visit Ministry of health department of india for any more detailed news needed<br>
 which gives the live tracking covid 19 in India.<br>
 
