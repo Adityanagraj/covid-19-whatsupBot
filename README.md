@@ -1,5 +1,6 @@
 # <h1 allign='center'>Covid-19-whatsupBot</h1>
 ![Python](https://img.shields.io/badge/python-v3.4+-blue.svg)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Adityanagraj/covid-19-whatsupBot/)
 [![open for contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adityanagraj/covid-19-whatsupBot/issues)
 [![MIT License](https://img.shields.io/github/license/Adityanagraj/covid-19-whatsupBot.svg?style=flat-square)](https://github.com/Adityanagraj/covid-19-whatsupBot/blob/master/Licence.md)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=525)](https://www.linkedin.com/in/aditya-n-02a0a8192/)<br>
