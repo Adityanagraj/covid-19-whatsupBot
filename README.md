@@ -1,4 +1,5 @@
 # <h1 align='center'>Covid-19-whatsupBot
+
 ![Python](https://img.shields.io/badge/python-v3.4+-blue.svg)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/Adityanagraj/covid-19-whatsupBot/)</align>
 [![open for contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Adityanagraj/covid-19-whatsupBot/issues)
