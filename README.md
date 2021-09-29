@@ -16,10 +16,10 @@ else:<br>
 <B>🧰 Requirements</br>
 <ul>
   <li>Flask a python framework</li>
-  <li>python</li>
+  <li>Python</li>
   <li>Twillo account</li>
-  <li> virtual environment</li>
-  <li> working whatsup account</li>
+  <li> Virtual environment</li>
+  <li> Working what'sup account</li>
 </ul>
 
 <B> 📹 watch it live<br>
