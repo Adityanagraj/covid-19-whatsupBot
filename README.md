@@ -19,7 +19,7 @@ else:<br>
   <li>Python</li>
   <li>Twillo account</li>
   <li> Virtual environment</li>
-  <li> working whatsup account</li>
+
 </ul>
 
 <B> 📹 watch it live<br>
